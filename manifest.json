@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Weather Extension",
+    "version": "1.0",
+    "description": "Fetches the current weather",
+    "permissions": ["storage", "geolocation"],
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+  }
+  

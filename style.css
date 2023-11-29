@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    height: fit-content;
+    width: 300px;
+    padding: 10px;
+  }
+  
+  #weather-container {
+    text-align: center;
+  }
+  
+  #weather-info {
+    font-size: 16px;
+    margin: 0;
+  }
+  
